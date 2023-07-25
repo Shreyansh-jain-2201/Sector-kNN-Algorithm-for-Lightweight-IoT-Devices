@@ -19,8 +19,7 @@ The "Sector kNN" algorithm is a novel approach designed to address the computati
 - Support for both classification and regression tasks.
 
 # Federated Learning model
-
-![FEDERATED LEARNING MODEL](https://github.com/Shreyansh-jain-2201/Sector-kNN-Algorithm-for-Lightweight-IoT-Devices/blob/7084dff27ab21f22525543498f22b14671709cda/Datasets/Images/FEDERATED%20LEARNING%20MODEL.png)
+![FEDERATED LEARNING MODEL](https://github.com/Shreyansh-jain-2201/Sector-kNN-Algorithm-for-Lightweight-IoT-Devices/blob/f5d924a5c98755d4958b5e714ecaf768cc8c191f/Datasets/Images/FEDERATED%20LEARNING%20MODEL.png)
 
 ## Federated Learning Workflow
 
