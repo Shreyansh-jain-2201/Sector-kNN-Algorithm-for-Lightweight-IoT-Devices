@@ -61,8 +61,8 @@ To use the Sector kNN algorithm, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/sector-knn.git
-cd sector-knn
+git clone https://github.com/Shreyansh-jain-2201/Sector-kNN-Algorithm-for-Lightweight-IoT-Devices.git
+cd Sector-kNN-Algorithm-for-Lightweight-IoT-Devices
 ```
 
 2. Install the required dependencies using `pip`:
