@@ -19,7 +19,7 @@ The "Sector kNN" algorithm is a novel approach designed to address the computati
 - Support for both classification and regression tasks.
 
 # Federated Learning model
-![FEDERATED LEARNING MODEL](Datasets/Images/FEDERATED LEARNING MODEL.png)
+![FEDERATED LEARNING MODEL](/Datasets/Images/FEDERATED LEARNING MODEL.png)
 
 ## Federated Learning Workflow
 
@@ -52,7 +52,7 @@ The "Sector kNN" algorithm is a novel approach designed to address the computati
 
 The workflow in the Sector kNN algorithm with Federated Learning allows multiple IoT devices to collaboratively train a shared kNN model while preserving data privacy and decentralization. By leveraging federated learning, the algorithm addresses scalability and privacy concerns, making it suitable for real-world applications in IoT and privacy-sensitive domains like healthcare and finance.
 
-![FEDERATED LEARNING WORKFLOW](Datasets/Images/Federated Learning Workflow.png)
+![FEDERATED LEARNING WORKFLOW](/Datasets/Images/Federated Learning Workflow.png)
 
 ## Usage and Installation
 
