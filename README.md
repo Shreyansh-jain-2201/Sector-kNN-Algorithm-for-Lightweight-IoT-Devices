@@ -12,7 +12,7 @@ The "Sector kNN" algorithm is a novel approach designed to address the computati
 
 ### Key Features
 
-- Optimized prediction time to O(1) from O(N).
+- Optimized prediction time complexity from O(N) to O(1).
 - Transfer learning tailored for lightweight IoT devices to enhance accuracy.
 - Federated learning allows multiple parties to collaboratively train a model without sharing their data. This ensures privacy in sensitive applications like healthcare, where a large dataset can be used for model training without sharing individual data.
 - Evaluation on various datasets with comparable accuracy to kd tree kNN and classical kNN.
