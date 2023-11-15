@@ -1,6 +1,13 @@
 # Sector-kNN-Algorithm-for-Lightweight-IoT-Devices
 The "Sector kNN Algorithm for Lightweight IoT Devices" repository introduces the "Federated Sector kNN" algorithm, tailored for lightweight Internet of Things (IoT) devices. It optimizes prediction time to O(1) and employs transfer learning for improved accuracy. With federated learning, it enables collaborative model training while preserving data privacy. The algorithm demonstrates comparable accuracy to traditional kNN methods on various datasets and supports both classification and regression tasks. It aims to revolutionize machine learning on IoT devices, ensuring efficient and privacy-conscious learning.
 
+Explore the project in detail through the following resources:
+
+[PowerPoint Presentation](https://www.canva.com/design/DAF0REfJ1mI/cI98vmlyxinNXbq-La9iKw/view): Dive into a concise overview of the project's key features and highlights.
+
+[Detailed Documentation](https://drive.google.com/file/d/13oIm_cmUtuH3UONUNkBXy3OSJ3JxaEVM/view?usp=sharing): For an in-depth understanding of the project's architecture, functionality, and implementation, refer to the comprehensive documentation.
+
+Feel free to click on the provided links to access the materials.
 
 ![Python](https://img.shields.io/badge/3.6-blue) ![Python](https://img.shields.io/badge/3.7-blue) ![Python](https://img.shields.io/badge/3.8-blue) ![Python](https://img.shields.io/badge/3.9-blue) ![Python](https://img.shields.io/badge/3.10-blue) ![Python](https://img.shields.io/badge/3.11-blue)
 
